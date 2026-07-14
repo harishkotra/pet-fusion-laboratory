@@ -4,6 +4,8 @@ Welcome to the **Pet Fusion Laboratory**! This is an interactive full-stack web 
 
 *Built with precision and loaded with beautiful biotech themed animations, historical log tracking, and multiple preset artistic filters.*
 
+<img width="1024" height="720" alt="Cap 2026-07-14 at 22 33 15" src="https://github.com/user-attachments/assets/4f031bba-756e-4455-95c5-800829873382" />
+
 ---
 
 ## Features
