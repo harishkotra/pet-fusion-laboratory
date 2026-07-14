@@ -1,0 +1,6 @@
+{
+  "name": "Pet Fusion Laboratory",
+  "description": "An immersive and whimsical laboratory to fuse pets and objects into AI-optimized image prompts, featuring multiple art styles and live visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
